@@ -202,8 +202,8 @@ class DefaultColor:
     READONLY_BG = 124
     READONLY_FG = 254
 
-    SSH_BG = 166 # medium orange
-    SSH_FG = 254
+    SSH_BG = 135 # purple
+    SSH_FG = 0
 
     REPO_CLEAN_BG = 41  # a light green color
     REPO_CLEAN_FG = 0  # black
