@@ -13,14 +13,14 @@ class Powerline:
         'compatible': {
             'lock': 'RO',
             'network': 'SSH',
-            'separator': '>',
-            'separator_thin': '>'
+            'separator': u'\u25B6',
+            'separator_thin': u'\u276F'
         },
         'patched': {
-            'lock': u'\uE0A2',
-            'network': u'\uE0A2',
-            'separator': u'\uE0B0',
-            'separator_thin': u'\uE0B1'
+            'lock': 'RO',
+            'network': 'SSH',
+            'separator': '',
+            'separator_thin': '>'
         },
         'flat': {
             'lock': '',
